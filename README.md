@@ -41,7 +41,7 @@
   <!-- Backend & DB -->
   <img src="https://skillicons.dev/icons?i=nestjs,nodejs,java,cpp,postgres,docker" /><br><br>
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,npm,vscode,vite,vercel,github" />
+  <img src="https://skillicons.dev/icons?i=git,npm,vscode,vercel,github" />
 </p>
 
 <hr>
@@ -56,13 +56,9 @@
     <td width="50%" align="center">
       <h2>✳️ Social Media</h2>
       <p align="center">
-        <a href="TU_LINK_DE_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+        <a href="www.linkedin.com/in/sebastian-armas-dev"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
         <a href="TU_LINK_DE_UPWORK"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" /></a>
-        <a href="TU_LINK_DE_INSTAGRAM"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-      </p>
-      <p align="center">
-        <a href="TU_LINK_DE_YOUTUBE"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-        <a href="TU_LINK_DE_DISCORD"><img src="https://skillicons.dev/icons?i=discord" /></a>
+        <a href="https://www.instagram.com/sebasarmas19"><img src="https://skillicons.dev/icons?i=instagram" /></a>
       </p>
     </td>
   </tr>
