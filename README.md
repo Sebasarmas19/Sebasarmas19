@@ -76,7 +76,7 @@ I focus on designing intuitive, user-centered products by integrating <strong>Le
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="#" target="_blank">
+<a href="https://www.upwork.com/freelancers/~01631f8c6c678c5594" target="_blank">
 <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
 </a>
 &nbsp;
