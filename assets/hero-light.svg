@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 250" width="900" height="250" role="img" aria-label="Sebastian Armas — Tools change. Solving problems doesn't.">
+  <defs>
+    <linearGradient id="bgLight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F7F3EA"/>
+      <stop offset="100%" stop-color="#F1EAE0"/>
+    </linearGradient>
+    <pattern id="dotGridLight" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#2A2724" fill-opacity="0.10"/>
+    </pattern>
+  </defs>
+
+  <!-- Main Card -->
+  <rect x="1" y="1" width="898" height="248" rx="18" fill="url(#bgLight)" stroke="#DDD4C6" stroke-width="1.5"/>
+  <rect x="1" y="1" width="898" height="248" rx="18" fill="url(#dotGridLight)"/>
+
+  <!-- Subtle architectural node motif on right -->
+  <g stroke="#B5A998" stroke-opacity="0.55" stroke-width="1.2" fill="none">
+    <line x1="745" y1="78" x2="825" y2="78"/>
+    <line x1="745" y1="78" x2="745" y2="158"/>
+    <line x1="825" y1="78" x2="825" y2="158"/>
+    <line x1="745" y1="158" x2="825" y2="158"/>
+    <line x1="785" y1="78" x2="785" y2="118"/>
+    <line x1="785" y1="118" x2="825" y2="118"/>
+    <circle cx="745" cy="78" r="10" fill="#F7F3EA"/>
+    <circle cx="825" cy="78" r="10" fill="#F7F3EA"/>
+    <circle cx="745" cy="158" r="5" fill="#F7F3EA"/>
+    <circle cx="825" cy="158" r="10" fill="#F7F3EA"/>
+    <circle cx="785" cy="118" r="5" fill="#1D1C1A" stroke="none"/>
+  </g>
+
+  <!-- Top Metadata Row -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <rect x="40" y="28" width="42" height="24" rx="12" fill="#FAF7F1" stroke="#C8BEB0" stroke-width="1"/>
+    <text x="61" y="44" text-anchor="middle" fill="#1D1C1A" font-size="11" font-weight="700" letter-spacing="1">SA</text>
+    <text x="94" y="44" fill="#6F685F" font-size="11" font-weight="600" letter-spacing="2">CARACAS — REMOTE</text>
+
+    <!-- Status Pill -->
+    <rect x="708" y="28" width="152" height="24" rx="12" fill="#ECE6DA" stroke="#D3C9B8" stroke-width="1"/>
+    <circle cx="724" cy="40" r="4" fill="#16A34A"/>
+    <text x="736" y="44" fill="#2A2724" font-size="10.5" font-weight="600" letter-spacing="1.2">AVAILABLE TO BUILD</text>
+  </g>
+
+  <!-- Editorial Headline -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="40" y="102" fill="#1D1C1A" font-size="36" font-weight="800" letter-spacing="-0.6">Tools change.</text>
+    <text x="40" y="142" fill="#655F57" font-size="32" font-weight="700" letter-spacing="-0.4">Solving problems doesn't.</text>
+    <text x="40" y="175" fill="#3B3834" font-size="14.5" font-weight="500">Sebastian Armas  ·  Full Stack Developer &amp; AI Engineer  ·  Computer Engineering @ UCAB</text>
+  </g>
+
+  <!-- 4 Core Pillar Pills -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600">
+    <rect x="40" y="196" width="66" height="28" rx="14" fill="#FAF7F1" stroke="#C8BEB0" stroke-width="1"/>
+    <text x="73" y="214" text-anchor="middle" fill="#1D1C1A">RAG</text>
+
+    <rect x="116" y="196" width="124" height="28" rx="14" fill="#FAF7F1" stroke="#C8BEB0" stroke-width="1"/>
+    <text x="178" y="214" text-anchor="middle" fill="#1D1C1A">System Design</text>
+
+    <rect x="250" y="196" width="112" height="28" rx="14" fill="#FAF7F1" stroke="#C8BEB0" stroke-width="1"/>
+    <text x="306" y="214" text-anchor="middle" fill="#1D1C1A">Adaptability</text>
+
+    <rect x="372" y="196" width="158" height="28" rx="14" fill="#FAF7F1" stroke="#C8BEB0" stroke-width="1"/>
+    <text x="451" y="214" text-anchor="middle" fill="#1D1C1A">Agent Orchestration</text>
+  </g>
+</svg>
