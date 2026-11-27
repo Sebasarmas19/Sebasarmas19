@@ -15,7 +15,7 @@
   </a>
   &nbsp;
   <a href="mailto:sebastian19armas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-262422?style=for-the-badge&logo=gmail&logoColor=F5F0E6" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
   <a href="https://www.upwork.com/freelancers/~01631f8c6c678c5594" target="_blank">
