@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 442 162" width="442" height="162" role="img" aria-label="Organizer">
+<defs>
+<linearGradient id="pg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#12151B"/><stop offset="100%" stop-color="#181C24"/></linearGradient>
+</defs>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect x="1" y="1" width="440" height="160" rx="14" fill="url(#pg)" stroke="#2B303A" stroke-width="1.2"/>
+<text x="22" y="38" fill="#F5F0E6" font-size="18" font-weight="700" letter-spacing="-0.2">Organizer</text>
+<rect x="320" y="20" width="102" height="24" rx="12" fill="#22201C" stroke="#3D3830" stroke-width="1"/><text x="371.0" y="35.8" text-anchor="middle" fill="#D6CEC0" font-size="10" font-weight="600" letter-spacing="0.8">REPOSITORY ↗</text>
+<text x="22" y="70" fill="#A6A096" font-size="12.5" font-weight="400">Personal planning &amp; time-management PWA for iPhone</text>
+<text x="22" y="90" fill="#A6A096" font-size="12.5" font-weight="400">with Web Push (pg_cron + Edge Functions) &amp; Siri Shortcuts.</text>
+<rect x="22" y="114" width="92" height="24" rx="12" fill="#1E222B" stroke="#343946" stroke-width="1"/><text x="68.0" y="129.8" text-anchor="middle" fill="#E3DDD2" font-size="11" font-weight="600">Next.js 16</text>
+<rect x="122" y="114" width="92" height="24" rx="12" fill="#1E222B" stroke="#343946" stroke-width="1"/><text x="168.0" y="129.8" text-anchor="middle" fill="#E3DDD2" font-size="11" font-weight="600">TypeScript</text>
+<rect x="222" y="114" width="78" height="24" rx="12" fill="#1E222B" stroke="#343946" stroke-width="1"/><text x="261.0" y="129.8" text-anchor="middle" fill="#E3DDD2" font-size="11" font-weight="600">Supabase</text>
+<rect x="308" y="114" width="92" height="24" rx="12" fill="#1E222B" stroke="#343946" stroke-width="1"/><text x="354.0" y="129.8" text-anchor="middle" fill="#E3DDD2" font-size="11" font-weight="600">Tailwind 4</text>
+</g></svg>
