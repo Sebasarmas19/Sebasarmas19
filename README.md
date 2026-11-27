@@ -54,9 +54,9 @@ Grounded in **mathematics, logic, and computer science fundamentals** (`C++`, `J
 ## Featured Projects
 
 <p align="center">
-  <a href="https://organizer-sigma-one.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-organizer-dark-v1.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/project-organizer-light-v1.svg" /><img src="./assets/project-organizer-dark-v1.svg" alt="Organizer" width="49%" /></picture></a>
+  <a href="https://github.com/Sebasarmas19/Organizer"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-organizer-dark-v1.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/project-organizer-light-v1.svg" /><img src="./assets/project-organizer-dark-v1.svg" alt="Organizer" width="49%" /></picture></a>
   &nbsp;
-  <a href="https://dinow-ashy.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-dinow-dark-v1.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/project-dinow-light-v1.svg" /><img src="./assets/project-dinow-dark-v1.svg" alt="Dinow" width="49%" /></picture></a>
+  <a href="https://github.com/Sebasarmas19/Dinow"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-dinow-dark-v1.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/project-dinow-light-v1.svg" /><img src="./assets/project-dinow-dark-v1.svg" alt="Dinow" width="49%" /></picture></a>
 </p>
 
 <p align="center">
