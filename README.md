@@ -2,9 +2,9 @@
 
 <!-- Adaptive Dark / Light Custom Editorial Hero Banner -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark-v2.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light-v2.svg" />
-  <img src="./assets/hero-dark-v2.svg" alt="Sebastian Armas — Tools change. Solving problems doesn't." width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark-v3.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light-v3.svg" />
+  <img src="./assets/hero-dark-v3.svg" alt="Sebastian Armas — Tools change. Solving problems doesn't." width="100%" />
 </picture>
 
 <br/><br/>
@@ -54,9 +54,9 @@ Grounded in **mathematics, logic, and computer science fundamentals** (`C++`, `J
 ## Featured Projects
 
 <p align="center">
-  <a href="https://organizer-sigma-one.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-organizer-dark-v2.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/project-organizer-light-v2.svg" /><img src="./assets/project-organizer-dark-v2.svg" alt="Organizer" width="49%" /></picture></a>
+  <a href="https://github.com/Sebasarmas19/Organizer"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-organizer-dark-v2.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/project-organizer-light-v2.svg" /><img src="./assets/project-organizer-dark-v2.svg" alt="Organizer" width="49%" /></picture></a>
   &nbsp;
-  <a href="https://dinow-ashy.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-dinow-dark-v2.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/project-dinow-light-v2.svg" /><img src="./assets/project-dinow-dark-v2.svg" alt="Dinow" width="49%" /></picture></a>
+  <a href="https://github.com/Sebasarmas19/Dinow"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-dinow-dark-v2.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/project-dinow-light-v2.svg" /><img src="./assets/project-dinow-dark-v2.svg" alt="Dinow" width="49%" /></picture></a>
 </p>
 
 <p align="center">
