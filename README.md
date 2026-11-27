@@ -41,103 +41,35 @@ Grounded in **mathematics, logic, and computer science fundamentals** (`C++`, `J
 
 ## Core Pillars
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⬡ System Design</h3>
-      <p>Clean architectures, relational data modeling, scalable APIs, and maintainable Full Stack products engineered to evolve.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ Agent Orchestration</h3>
-      <p>AI-assisted engineering and multi-agent workflows (<code>Claude Code</code>, <code>Antigravity</code>, <code>Codex</code>, <code>Orca</code>, <code>n8n</code>) to ship faster without sacrificing code quality.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 RAG &amp; AI Systems</h3>
-      <p>Retrieval-augmented pipelines, structured LLM outputs, and practical AI integrations built around real operational problems.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔄 Adaptability</h3>
-      <p>Tech-agnostic mindset, fast onboarding across stacks, and strong collaboration in high-velocity engineering teams.</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/pillars-dark-v1.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/pillars-light-v1.svg" />
+    <img src="./assets/pillars-dark-v1.svg" alt="Core Engineering Pillars" width="100%" />
+  </picture>
+</div>
 
 <br/>
 
 ## Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📱 <a href="https://github.com/Sebasarmas19/Organizer">Organizer</a></h3>
-      <p>Personal planning &amp; time-management PWA built for iPhone with Web Push (<code>pg_cron</code> + Supabase Edge Functions) and iOS Siri Shortcuts.</p>
-      <p>
-        <code>Next.js 16</code> · <code>TypeScript</code> · <code>Supabase</code> · <code>Tailwind 4</code>
-      </p>
-      <p>
-        <a href="https://organizer-sigma-one.vercel.app"><strong>↗ Live Demo</strong></a> &nbsp;·&nbsp;
-        <a href="https://github.com/Sebasarmas19/Organizer"><strong>Source Code</strong></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏠 <a href="https://github.com/Sebasarmas19/Dinow">Dinow</a></h3>
-      <p>Gamified household chores &amp; reminders PWA featuring weekly schedules, coverage bonuses, achievements, and PIN-based audit logs.</p>
-      <p>
-        <code>TypeScript</code> · <code>Next.js</code> · <code>PWA</code>
-      </p>
-      <p>
-        <a href="https://dinow-ashy.vercel.app"><strong>↗ Live Demo</strong></a> &nbsp;·&nbsp;
-        <a href="https://github.com/Sebasarmas19/Dinow"><strong>Source Code</strong></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 <a href="https://github.com/Sebasarmas19/RateMat">RateMat</a></h3>
-      <p>Independent student platform for professor ratings, curricula, and course discovery built for the UCAB community.</p>
-      <p>
-        <code>Angular 18</code> · <code>NestJS 10</code> · <code>PostgreSQL</code> · <code>Tailwind</code>
-      </p>
-      <p>
-        <a href="https://github.com/Sebasarmas19/RateMat"><strong>Source Code</strong></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚙️ <a href="https://github.com/AnluYaens/nodeaway">Nodeaway</a></h3>
-      <p>Packages complex <code>n8n</code> workflows into simple, form-driven product recipes backed by FastAPI — hiding operational complexity without hiding logic.</p>
-      <p>
-        <code>Python</code> · <code>FastAPI</code> · <code>n8n</code>
-      </p>
-      <p>
-        <a href="https://github.com/AnluYaens/nodeaway"><strong>Source Code</strong></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/Sebasarmas19/Chatbot-Reminder">Chatbot-Reminder</a></h3>
-      <p>AI-powered personal reminder assistant over WhatsApp combining conversational AI with automated scheduling workflows.</p>
-      <p>
-        <code>TypeScript</code> · <code>n8n</code> · <code>Evolution API</code> · <code>Gemini</code>
-      </p>
-      <p>
-        <a href="https://github.com/Sebasarmas19/Chatbot-Reminder"><strong>Source Code</strong></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌤️ <a href="https://github.com/Sebasarmas19/Proyecto_Parcial_Web2">SkyDash-Manager</a></h3>
-      <p>Georeferenced weather analytics and visualization platform built from scratch with zero frameworks.</p>
-      <p>
-        <code>HTML5</code> · <code>CSS3</code> · <code>Vanilla JavaScript</code>
-      </p>
-      <p>
-        <a href="https://github.com/Sebasarmas19/Proyecto_Parcial_Web2"><strong>Source Code</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://organizer-sigma-one.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-organizer-dark-v1.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/project-organizer-light-v1.svg" /><img src="./assets/project-organizer-dark-v1.svg" alt="Organizer" width="49%" /></picture></a>
+  &nbsp;
+  <a href="https://dinow-ashy.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-dinow-dark-v1.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/project-dinow-light-v1.svg" /><img src="./assets/project-dinow-dark-v1.svg" alt="Dinow" width="49%" /></picture></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sebasarmas19/RateMat"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-ratemat-dark-v1.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/project-ratemat-light-v1.svg" /><img src="./assets/project-ratemat-dark-v1.svg" alt="RateMat" width="49%" /></picture></a>
+  &nbsp;
+  <a href="https://github.com/AnluYaens/nodeaway"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-nodeaway-dark-v1.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/project-nodeaway-light-v1.svg" /><img src="./assets/project-nodeaway-dark-v1.svg" alt="Nodeaway" width="49%" /></picture></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sebasarmas19/Chatbot-Reminder"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-chatbot-dark-v1.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/project-chatbot-light-v1.svg" /><img src="./assets/project-chatbot-dark-v1.svg" alt="Chatbot-Reminder" width="49%" /></picture></a>
+  &nbsp;
+  <a href="https://github.com/Sebasarmas19/Proyecto_Parcial_Web2"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-skydash-dark-v1.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/project-skydash-light-v1.svg" /><img src="./assets/project-skydash-dark-v1.svg" alt="SkyDash-Manager" width="49%" /></picture></a>
+</p>
 
 <br/>
 

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 442 162" width="442" height="162" role="img" aria-label="Dinow">
+<defs>
+<linearGradient id="pg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#F8F4EC"/><stop offset="100%" stop-color="#F2ECE1"/></linearGradient>
+</defs>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect x="1" y="1" width="440" height="160" rx="14" fill="url(#pg)" stroke="#DDD4C6" stroke-width="1.2"/>
+<text x="22" y="38" fill="#1D1C1A" font-size="18" font-weight="700" letter-spacing="-0.2">Dinow</text>
+<rect x="318" y="20" width="104" height="24" rx="12" fill="#E6F4EA" stroke="#B7DFC2" stroke-width="1"/><circle cx="332" cy="32" r="3.5" fill="#16A34A"/><text x="343" y="35.8" fill="#166534" font-size="10" font-weight="700" letter-spacing="0.8">LIVE DEMO ↗</text>
+<text x="22" y="70" fill="#5A554E" font-size="12.5" font-weight="400">Gamified household chores &amp; reminders PWA with weekly</text>
+<text x="22" y="90" fill="#5A554E" font-size="12.5" font-weight="400">schedules, coverage bonuses, and PIN-based audit logs.</text>
+<rect x="22" y="114" width="92" height="24" rx="12" fill="#FAF7F1" stroke="#D2C8B8" stroke-width="1"/><text x="68.0" y="129.8" text-anchor="middle" fill="#2A2724" font-size="11" font-weight="600">TypeScript</text>
+<rect x="122" y="114" width="71" height="24" rx="12" fill="#FAF7F1" stroke="#D2C8B8" stroke-width="1"/><text x="157.5" y="129.8" text-anchor="middle" fill="#2A2724" font-size="11" font-weight="600">Next.js</text>
+<rect x="201" y="114" width="52" height="24" rx="12" fill="#FAF7F1" stroke="#D2C8B8" stroke-width="1"/><text x="227.0" y="129.8" text-anchor="middle" fill="#2A2724" font-size="11" font-weight="600">PWA</text>
+</g></svg>
